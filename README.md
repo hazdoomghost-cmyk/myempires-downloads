@@ -2,7 +2,23 @@
 
 Repositório público de distribuição do **MyEmpires**, uma adaptação para jogar Social Empires localmente e em dupla pela rede doméstica.
 
-**Status:** canal público em configuração. Os arquivos aparecerão em **[Releases](https://github.com/hazdoomghost-cmyk/myempires-downloads/releases)** depois que a publicação automática for autorizada e a versão concluir os testes. Evite links de terceiros.
+## Download oficial — MyEmpires v0.6.0
+
+**[BAIXAR MYEMPIRES COMPLETO — Instalador para Windows (1,38 GB)](https://github.com/hazdoomghost-cmyk/myempires-downloads/releases/download/myempires-v0.6.0/MyEmpires-Instalador-v0.6.0.exe)**
+
+**[BAIXAR MYEMPIRES CLIENTE — segundo computador (20,3 MB)](https://github.com/hazdoomghost-cmyk/myempires-downloads/releases/download/myempires-v0.6.0/MyEmpires-Cliente.exe)**
+
+Alternativas: [ZIP portátil completo](https://github.com/hazdoomghost-cmyk/myempires-downloads/releases/download/myempires-v0.6.0/MyEmpires-Windows-Completo-v0.6.0.zip) · [Atualização incremental (87 MB)](https://github.com/hazdoomghost-cmyk/myempires-downloads/releases/download/myempires-v0.6.0/MyEmpires-Atualizacao-v0.6.0.zip) · [Código-fonte GPLv3](https://github.com/hazdoomghost-cmyk/myempires-downloads/releases/download/myempires-v0.6.0/MyEmpires-Fonte-v0.6.0.zip) · [SHA-256](https://github.com/hazdoomghost-cmyk/myempires-downloads/releases/download/myempires-v0.6.0/MyEmpires-Windows-Completo-v0.6.0.zip.sha256)
+
+**Como começar:** instale o jogo completo em um computador e clique em *Jogar em dupla (hospedar)*. No segundo, abra o Cliente leve e procure a partida. Compare o número de confirmação mostrado em ambos e autorize a entrada no computador anfitrião.
+
+**Atualizações:** a versão 0.6.0 incorpora o verificador de atualizações em **Configurações**. As futuras versões públicas poderão ser baixadas como pacotes incrementais com confirmação, verificação SHA-256 e cópia dos arquivos antigos. Para sair de versões anteriores, prefira o instalador completo v0.6.0 e faça uma cópia da pasta `saves`.
+
+**Status dos testes:** arquivos publicados e compilação Windows aprovada. A experiência de duas pessoas jogando simultaneamente ainda requer validação em dois computadores reais. O executável não possui certificado comercial de assinatura digital.
+
+Todos os seis pacotes foram transferidos de uma compilação privada testada para esta Release pública. Consulte a **[página oficial da versão](https://github.com/hazdoomghost-cmyk/myempires-downloads/releases/tag/myempires-v0.6.0)**.
+
+
 
 ## O que estará disponível
 
